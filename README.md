@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chaitra</h1>
 <h3 align="center">I am a student at MS Ramaiah Institute of Technology, Bangalore</h3>
 
-- 📫 How to reach me **ullechaitra3@gmail.com**
+- 📫 How to reach me?**ullechaitra3@gmail.com**
 
 - ⚡ **Like a GitHub comet, I streak through the coding cosmos, but don't worry, I'll return with a dazzling repository one day!**
 
