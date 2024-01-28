@@ -3,7 +3,7 @@
 
 - 📫 How to reach me ? **ullechaitra3@gmail.com**
 
-- ⚡ Fun fact **Like a GitHub comet, I streak through the coding cosmos, but don't worry, I'll return with a dazzling repository one day!**
+- ⚡ Fun fact : **Like a GitHub comet, I streak through the coding cosmos, but don't worry, I'll return with a dazzling repository one day!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
